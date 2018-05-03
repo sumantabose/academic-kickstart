@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Distributed Ledger Technology",
+    "Distributed Consensus Algorithms",
+    "Security and Privacy of Blockchain"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Quantum Optoelectronics"
+  institution = "Nanyang Technological University, Singapore"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.Tech in Electronics and Communication Engineering"
+  institution = "National Institute of Technology, Trichy, India"
+  year = 2013
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Sumanta Bose is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a Senior Research Engineer in the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx) at [Nanyang Technological University (NTU) Singapore](http://www.ntu.edu.sg/Pages/home.aspx). I work on full-stack [distributed ledger technology](https://en.wikipedia.org/wiki/Distributed_ledger) system research, with specialization in [blockchain](https://en.wikipedia.org/wiki/Blockchain). Currently, I'm developing our group's in-house application agnostic blockchain platform. My job also involves working with different blockchain implementations such as [Ethereum](https://en.wikipedia.org/wiki/Ethereum), [Corda](https://en.wikipedia.org/wiki/R3_(company)#Corda) and [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger). Our group is led by [Prof. Kwok-Yan Lam](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=KWOKYAN.LAM) and [Asst. Prof. Anupam Chattopadhyay](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ANUPAM).
